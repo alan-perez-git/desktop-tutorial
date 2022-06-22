@@ -10,3 +10,5 @@ Este texto lo escribo para probar las funciones fetch y merge del remoto al loca
 
 Ahora del local al remoto jasjajsaj
 Y otra vez, solamente para ver que pasa al haber dos cambios unstaged
+
+2022/06/22, escribo esto para hacer un commit y push para probar que no hay advertencias por haber creado un archivo igual a éste con otro nombre que no se verá obviamente en este repo pero está este día en el local
